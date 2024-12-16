@@ -1,3 +1,7 @@
 fastapi
 uvicorn
-openai
+langchain_openai
+langchain
+langchain_community
+pydantic
+dotenv
